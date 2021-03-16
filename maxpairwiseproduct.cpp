@@ -70,6 +70,7 @@ int main()
         if (res1 != res2)
         {
             std::cout << "Wrong res1=" << res1 << " Res2=" << res2;
+            break;
         }
         else
         {
